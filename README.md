@@ -2,5 +2,4 @@
 
 - Syed Irfan Faraz
 - Kolupoti Sai Prakash
-- Suram Sai Yaswanth
-- Pudota Abhiram Chowdary
+- Suram Sai Yaswant
